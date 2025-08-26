@@ -12,5 +12,4 @@ public class Calculator {
         ar=2*(l*b+b*h+l*h);
         System.out.println("Area of cuboid= "+ar);
     }
-
 }
