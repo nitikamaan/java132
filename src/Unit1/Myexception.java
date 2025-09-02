@@ -1,6 +1,7 @@
+package Unit1;
+
 import java.io.DataInputStream;
 import java.io.IOException;
-import java.util.*;
 //import java.util.InputMismatchException
 
 public class Myexception {
